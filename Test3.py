@@ -15,7 +15,7 @@ num = 0
 
 
 def get_position():
-    pass
+    return map1.tiledgidmap[map1.get_tile_gid(*position, 0)]
 
 
 def render1():
@@ -81,6 +81,7 @@ while run:
         render1()
         all_sprites.draw(screen)
         pygame.display.flip()
+        print(get_position())
     else:
         render2()
         all_sprites.draw(screen)
