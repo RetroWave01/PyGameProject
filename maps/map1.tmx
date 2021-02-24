@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="21" height="19" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="tmw_desert_spacing.tsx"/>
+ <tileset firstgid="49" source="салмазом.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="21" height="19">
+  <data encoding="base64" compression="zlib">
+   eJytlLEKgzAQhrO1g+DeISJaAqWKi3PXOuYl+v6P0BsiHD93l6gZPpSoH7//GUfn3KsiT2IgfEV6YiZa4n7w2Z/hHJJzpxHui+m4FObc330tcCMh4/SC+2gfmhO9fL274OReq4PIzoPgxDl+oF+phyiscSde/xIb9HAT3JhFc+I8ubdR3CU5MYf1rQXFmZtBJ3QhZc05NSwvOnHvSfsk5z2b0/JedfrU8Qbzq/X/XFnuN/GoyET8AY02McA=
+  </data>
+ </layer>
+</map>
