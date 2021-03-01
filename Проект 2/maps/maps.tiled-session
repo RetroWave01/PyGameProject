@@ -1,0 +1,179 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Admin/Desktop/Проект 2/sewer_tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Admin/Desktop/Проект 2/tmw_desert_spacing.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Admin/Desktop/Проект 2/tmx.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640,
+                "y": 639
+            }
+        },
+        "C:/Users/Admin/Desktop/Проект 2/безымянный.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9619,
+                "y": 10948
+            }
+        },
+        "D:/Программы/Tile/examples/hexagonal-mini.tmx": {
+            "scale": 1.3450171821305843,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 413.37761880429224,
+                "y": 207.43229432805313
+            }
+        },
+        "D:/Программы/Tile/examples/hexagonal-mini.tmx#hex mini": {
+            "scaleInDock": 1
+        },
+        "Untitled-1 с водой.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Untitled-1 с кактусами и тд новый.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Untitled-1 с кактусами и тд.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Untitled-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Untitled-1с кактусами и тд.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1 (2).tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.283185840708,
+                "y": 304.42477876106193
+            }
+        },
+        "map1.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 341.23893805309734,
+                "y": 321.4159292035398
+            }
+        },
+        "map1.tmx#tmw_desert_spacing": {
+            "scaleInDock": 1
+        },
+        "map10.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 327.78761061946904,
+                "y": 308.67256637168146
+            }
+        },
+        "map2.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 329.91150442477874,
+                "y": 295.929203539823
+            }
+        },
+        "map3.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.99999999999994,
+                "y": 294.51327433628313
+            }
+        },
+        "map4.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.99999999999994,
+                "y": 303.716814159292
+            }
+        },
+        "map5.tmx": {
+            "scale": 1.4125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 356.1061946902655,
+                "y": 310.79646017699116
+            }
+        },
+        "tmw_desert_spacing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Надо.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "салмазом.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.fixedSize": true,
+    "map.height": 19,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.renderOrder": null,
+    "map.width": 21,
+    "openFiles": [
+        "map1.tmx",
+        "map2.tmx",
+        "map3.tmx",
+        "map4.tmx",
+        "map5.tmx",
+        "Untitled-1.tsx",
+        "Untitled-1 с кактусами и тд.tsx",
+        "Untitled-1 с кактусами и тд новый.tsx"
+    ],
+    "project": "maps.tiled-project",
+    "recentFiles": [
+        "map1.tmx",
+        "Untitled-1 с кактусами и тд новый.tsx",
+        "Untitled-1 с кактусами и тд.tsx",
+        "Untitled-1.tsx",
+        "map5.tmx",
+        "map4.tmx",
+        "map3.tmx",
+        "map2.tmx",
+        "Untitled-1с кактусами и тд.tsx",
+        "map1 (2).tmx",
+        "map10.tmx",
+        "Untitled-1 с водой.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.useTransparentColor": false
+}
